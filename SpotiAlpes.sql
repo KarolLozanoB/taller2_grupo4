@@ -1,5 +1,4 @@
 -- =========================================================
--- Script de creación de esquema según el diagrama adjunto
 -- Base de datos: Oracle (tipos VARCHAR2, NUMBER)
 -- =========================================================
 
